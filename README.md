@@ -1,1 +1,1 @@
-# 백엔드,Spring 용어 모음집
+# 백엔드,SpringBoot 용어 모음집
