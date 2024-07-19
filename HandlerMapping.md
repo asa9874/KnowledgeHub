@@ -96,13 +96,24 @@ public class HelloWorldController {
 ```java
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
-public class HelloController {
+@RequestMapping("/api")
+public class ApiController {
 
-    @GetMapping("/hello")
-    public String handleRequest() {
-        return "hello"; // View name
+    @GetMapping("/greeting")
+    @ResponseBody
+    public String getGreeting() {
+        return "Hello, World!";
+    }
+
+    @PostMapping("/greeting")
+    @ResponseBody
+    public String postGreeting() {
+        return "Posted Greeting!";
     }
 }
 ```
@@ -120,7 +131,9 @@ public class WebConfig implements WebMvcConfigurer {
 
     @Bean
     public RequestMappingHandlerMapping requestMappingHandlerMapping() {
-        return new RequestMappingHandlerMapping();
+        RequestMappingHandlerMapping mapping = new RequestMappingHandlerMapping();
+        // 추가 설정 가능
+        return mapping;
     }
 }
 ```
