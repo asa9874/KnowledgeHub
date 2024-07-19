@@ -1,5 +1,9 @@
 # 1.HandlerMapping 
     Spring Web MVC 프레임워크에서 중요한 인터페이스로, 
+    요청을 적절한 핸들러(컨트롤러)로 매핑하는 역할을 담당하는 컴포넌트입니다.
+    HandlerMapping 자체는 Spring MVC의 프레임워크에서 제공되는 인터페이스이며, 
+    개발자가 직접 구현할 필요는 없습니다.
+    
     클라이언트의 요청 URL을 적절한 핸들러(컨트롤러)와 매핑하는 역할
     (request의 URL과 매칭되는 handler를 선택하는 역할)
 
