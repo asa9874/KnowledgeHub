@@ -18,6 +18,13 @@
     - [Handler Adapter](https://github.com/asa9874/Backend-knowledge/blob/main/Handler%20Adapter.md)
     - [ViewResolver](https://github.com/asa9874/Backend-knowledge/blob/main/ViewResolver.md)
     - [Rendering](https://github.com/asa9874/Backend-knowledge/blob/main/Rendering.md)
+    - [Controller](https://github.com/asa9874/Backend-knowledge/blob/main/Controller.md)
+    - [ModelAndView](https://github.com/asa9874/Backend-knowledge/blob/main/ModelAndView.md)
+ 
+
+
+
+
 - 🛠Spring Data JPA
     - [Spring Data JPA](https://github.com/asa9874/Backend-knowledge/blob/main/Spring%20Data%20JPA.md)
     - [JPA (Java Persistence API)](https://github.com/asa9874/Backend-knowledge/blob/main/JPA(Java%20Persistence%20API).md)
@@ -28,11 +35,23 @@
 
 - 📝Spring Boot
   - [SpringBoot](https://github.com/asa9874/Backend-knowledge/blob/main/SpringBoot.md)
+ 
 
+
+- 💿 Annotation
+    - [@Bean](https://github.com/asa9874/Backend-knowledge/blob/main/%40Bean.md)
+    - [@Configuration](https://github.com/asa9874/Backend-knowledge/blob/main/%40Configuration.md)
+    - [@RequestMapping](https://github.com/asa9874/Backend-knowledge/blob/main/%40RequestMapping.md)
+    - [@ResponseBody](https://github.com/asa9874/Backend-knowledge/blob/main/%40ResponseBody.md)
+    - [@RestController](https://github.com/asa9874/Backend-knowledge/blob/main/%40RestController.md)
+    - [@SpringBootApplication](https://github.com/asa9874/Backend-knowledge/blob/main/%40SpringBootApplication.md)
+
+  
 - 🌳Core Concepts
   - [AOP (Aspect-Oriented Programming)](https://github.com/asa9874/Backend-knowledge/blob/main/AOP(Aspect-Oriented%20Programming).md)
   - [DI (Dependency Injection)](https://github.com/asa9874/Backend-knowledge/blob/main/DI(Dependency%20Injection).md)
   - [IOC (Inversion of Control)](https://github.com/asa9874/Backend-knowledge/blob/main/IOC(Inversion%20of%20Control).md)
   - [POJO (Plain Old Java Object)](https://github.com/asa9874/Backend-knowledge/blob/main/POJO(Plain%20Old%20Java%20Object).md)
   - [PSA (Portable Service Abstraction)](https://github.com/asa9874/Backend-knowledge/blob/main/PSA(Portable%20Service%20Abstraction).md)
+  - [Bean](https://github.com/asa9874/Backend-knowledge/blob/main/Bean.md)
 
