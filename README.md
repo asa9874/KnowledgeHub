@@ -1,5 +1,5 @@
-# 백엔드,SpringBoot 용어 모음집
-    너무 많은 백엔드, SpringBoot의 용어들 하나하나 천천히 공부해나가보자
+# SpringBoot 용어,사용법 모음집
+    너무 많은 SpringBoot의 용어들 하나하나 천천히 공부해나가보자
     
 
 
