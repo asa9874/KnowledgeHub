@@ -22,17 +22,36 @@
     - [Exception Handler](🛠Spring%20Web%20MVC/Exception%20Handler.md)
     - [Form Handling](🛠Spring%20Web%20MVC\Form%20Handling.md)
  
+
+
+
+
 - 🛠Spring Data JPA
     - [Spring Data JPA](🛠Spring%20Data%20JPA/Spring%20Data%20JPA.md)
     - [JPA (Java Persistence API)](🛠Spring%20Data%20JPA/JPA(Java%20Persistence%20API).md)
     - [JPQL (Java Persistence Query Language)](🛠Spring%20Data%20JPA/JPQL(Java%20Persistence%20Query%20Language).md)
     - [ORM (Object-Relational Mapping)](🛠Spring%20Data%20JPA/ORM(Object-Relational%20Mapping).md)
     - [Hibernate](🛠Spring%20Data%20JPA/Hibernate.md)
-    
+    - [Entity](🛠Spring%20Data%20JPA\Entity.md)
+    - [Persistence Context](🛠Spring%20Data%20JPA\Persistence%20Context.md)
+    - [Repository](🛠Spring%20Data%20JPA\Repository.md)
+    - [JTA(Java Transaction API)](🛠Spring%20Data%20JPA\JTA(Java%20Transaction%20API).md)
+    - [Criteria API](🛠Spring%20Data%20JPA\Criteria%20API.md)
+
+
+
+
+
+
+
 
 - 📝Spring Boot
   - [SpringBoot](📝Spring%20Boot/SpringBoot.md)
  
+
+
+
+
 - 💿Annotation
     - [@Bean](💿Annotation/@Bean.md)
     - [@Configuration](💿Annotation/@Configuration.md)
@@ -43,7 +62,7 @@
     - [@ModelAttribute](💿Annotation\@ModelAttribute.md)
     - [@RequestBody](💿Annotation\@RequestBody.md)
     - [@Valid](💿Annotation\@Valid.md)
-
+    - [@Transactional](💿Annotation\@Transactional.md)
 
 
 - 🛒Dependency
