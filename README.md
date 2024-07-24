@@ -37,7 +37,7 @@
     - [Repository](🛠Spring%20Data%20JPA\Repository.md)
     - [JTA(Java Transaction API)](🛠Spring%20Data%20JPA\JTA(Java%20Transaction%20API).md)
     - [Criteria API](🛠Spring%20Data%20JPA\Criteria%20API.md)
-
+    - [DAO(Data Access Object)](🛠Spring%20Data%20JPA\DAO(Data%20Access%20Object).md)
 
 
 
@@ -80,3 +80,6 @@
   - [POJO (Plain Old Java Object)](🌳Core%20Concepts/POJO(Plain%20Old%20Java%20Object).md)
   - [PSA (Portable Service Abstraction)](🌳Core%20Concepts/PSA(Portable%20Service%20Abstraction).md)
   - [Bean](🌳Core%20Concepts/Bean.md)
+  - [DTO(Data Transfer Object)](🌳Core%20Concepts\DTO(Data%20Transfer%20Object).md)
+  - [VO(Value Object)](🌳Core%20Concepts\VO(Value%20Object).md)
+  - [DDD(Domain-Driven Design)](🌳Core%20Concepts\DDD(Domain-Driven%20Design).md)
