@@ -21,7 +21,7 @@
     - [ModelAndView](🛠Spring%20Web%20MVC/ModelAndView.md)
     - [Exception Handler](🛠Spring%20Web%20MVC/Exception%20Handler.md)
     - [Form Handling](🛠Spring%20Web%20MVC\Form%20Handling.md)
- 
+    - [Interceptor](🛠Spring%20Web%20MVC\Interceptor.md)
 
 
 
@@ -38,7 +38,7 @@
     - [JTA(Java Transaction API)](🛠Spring%20Data%20JPA\JTA(Java%20Transaction%20API).md)
     - [Criteria API](🛠Spring%20Data%20JPA\Criteria%20API.md)
     - [DAO(Data Access Object)](🛠Spring%20Data%20JPA\DAO(Data%20Access%20Object).md)
-
+    -[EntityManager](🛠Spring%20Data%20JPA\EntityManager.md)
 
 
 
@@ -47,8 +47,8 @@
 
 - 📝Spring Boot
   - [SpringBoot](📝Spring%20Boot/SpringBoot.md)
- 
-
+  - [Actuator](📝Spring%20Boot\Actuator.md)
+  - [Spring Boot DevTools](📝Spring%20Boot\Spring%20Boot%20DevTools.md)
 
 
 
@@ -63,6 +63,10 @@
     - [@RequestBody](💿Annotation\@RequestBody.md)
     - [@Valid](💿Annotation\@Valid.md)
     - [@Transactional](💿Annotation\@Transactional.md)
+    - [@PathVariable](💿Annotation\@PathVariable.md)
+    - [@RequestParam](💿Annotation\@RequestParam.md)
+
+
 
 
 - 🛒Dependency
