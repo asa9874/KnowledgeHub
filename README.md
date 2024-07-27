@@ -1,6 +1,6 @@
 # SpringBoot 용어,사용법 모음집
     너무 많은 SpringBoot의 용어들 하나하나 천천히 공부해나가보자
-    
+    내가 찾아볼려고 만든 레포지터리
 
 
     
@@ -22,7 +22,7 @@
     - [Exception Handler](🛠Spring%20Web%20MVC/Exception%20Handler.md)
     - [Form Handling](🛠Spring%20Web%20MVC\Form%20Handling.md)
     - [Interceptor](🛠Spring%20Web%20MVC\Interceptor.md)
-
+    - [CORS(Cross-Origin Resource Sharing)](🛠Spring%20Web%20MVC\CORS(Cross-Origin%20Resource%20Sharing).md)
 
 
 
@@ -39,7 +39,7 @@
     - [Criteria API](🛠Spring%20Data%20JPA\Criteria%20API.md)
     - [DAO(Data Access Object)](🛠Spring%20Data%20JPA\DAO(Data%20Access%20Object).md)
     -[EntityManager](🛠Spring%20Data%20JPA\EntityManager.md)
-
+    -[Auditing](🛠Spring%20Data%20JPA\Auditing.md)
 
 
 
@@ -65,8 +65,8 @@
     - [@Transactional](💿Annotation\@Transactional.md)
     - [@PathVariable](💿Annotation\@PathVariable.md)
     - [@RequestParam](💿Annotation\@RequestParam.md)
-
-
+    - [@ControllerAdvice](💿Annotation\@ControllerAdvice.md)
+    - [@ExceptionHandler](💿Annotation\@ExceptionHandler.md)
 
 
 - 🛒Dependency
