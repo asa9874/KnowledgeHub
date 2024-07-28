@@ -126,3 +126,26 @@ public class UserController {
     }
 }
 ```
+
+
+
+# 4.포함 애노테이션
+- @Entity: JPA 엔티티를 정의.
+- @Table: 엔티티와 매핑할 데이터베이스 테이블을 지정.
+- @Id: 엔티티의 기본 키를 지정.
+- @GeneratedValue: 기본 키의 생성 전략을 지정.
+- @Column: 엔티티의 필드와 데이터베이스 컬럼을 매핑.
+- @OneToOne: 일대일 관계를 매핑.
+- @OneToMany: 일대다 관계를 매핑.
+- @ManyToOne: 다대일 관계를 매핑.
+- @ManyToMany: 다대다 관계를 매핑.
+- @JoinColumn: 관계를 매핑할 때 사용할 외래 키 컬럼을 지정.
+- @JoinTable: 다대다 관계를 매핑할 조인 테이블을 지정.
+- @Query: JPQL 또는 네이티브 쿼리를 정의.
+- @NamedQuery: 이름이 지정된 쿼리를 정의.
+- @Modifying: 데이터 변경 쿼리를 정의.
+- @Transactional: 메서드 또는 클래스에 트랜잭션 설정을 적용.
+- @EnableJpaRepositories: JPA 리포지토리를 활성화.
+- @EntityListeners: 엔티티의 라이프사이클 이벤트 리스너를 지정.
+- @Version: 낙관적 잠금을 위한 버전 필드를 지정.
+- @Temporal: 날짜/시간 타입을 매핑.

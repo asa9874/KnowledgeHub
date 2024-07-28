@@ -38,8 +38,8 @@
     - [JTA(Java Transaction API)](🛠Spring%20Data%20JPA\JTA(Java%20Transaction%20API).md)
     - [Criteria API](🛠Spring%20Data%20JPA\Criteria%20API.md)
     - [DAO(Data Access Object)](🛠Spring%20Data%20JPA\DAO(Data%20Access%20Object).md)
-    -[EntityManager](🛠Spring%20Data%20JPA\EntityManager.md)
-    -[Auditing](🛠Spring%20Data%20JPA\Auditing.md)
+    - [EntityManager](🛠Spring%20Data%20JPA\EntityManager.md)
+    - [Auditing](🛠Spring%20Data%20JPA\Auditing.md)
 
 
 
@@ -71,9 +71,15 @@
 
 - 🛒Dependency
   - [Spring-boot-starter-data-jpa](🛒Dependency\Spring-boot-starter-data-jpa.md)
-
-
-
+  - [Spring-boot-starter-security](🛒Dependency\Spring-boot-starter-security.md)
+  - [Spring-boot-starter-web](🛒Dependency\Spring-boot-starter-web.md)
+  - [spring-boot-starter-thymeleaf](🛒Dependency\spring-boot-starter-thymeleaf.md)
+  - [Spring-boot-devtools](🛒Dependency\spring-boot-devtools.md)
+  - [Spring-boot-configuration-processor](🛒Dependency\Spring-boot-configuration-processor.md)
+  - [Lombok](🛒Dependency\Lombok.md)
+  - [Spring-boot-starter-test](🛒Dependency\Spring-boot-starter-test.md)
+  - [H2](🛒Dependency\H2.md)
+  - [thymeleaf-layout-dialect](🛒Dependency\thymeleaf-layout-dialect.md)
 
 
 
