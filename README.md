@@ -67,6 +67,11 @@
     - [@RequestParam](💿Annotation\@RequestParam.md)
     - [@ControllerAdvice](💿Annotation\@ControllerAdvice.md)
     - [@ExceptionHandler](💿Annotation\@ExceptionHandler.md)
+    - [@Repository](💿Annotation\@Repository.md)
+    - [@Component](💿Annotation\@Component.md)
+    - [@Autowired](💿Annotation\@Autowired.md)
+    - [@Service](💿Annotation\@Service.md)
+
 
 
 - 🛒Dependency
@@ -80,8 +85,8 @@
   - [Spring-boot-starter-test](🛒Dependency\Spring-boot-starter-test.md)
   - [H2](🛒Dependency\H2.md)
   - [thymeleaf-layout-dialect](🛒Dependency\thymeleaf-layout-dialect.md)
-
-
+  - [spring-boot-starter-validation](🛒Dependency\spring-boot-starter-validation.md)
+  - [thymeleaf-extras-springsecurity6](🛒Dependency\thymeleaf-extras-springsecurity6.md)
 
 - 🌳Core Concepts
   - [AOP (Aspect-Oriented Programming)](🌳Core%20Concepts/AOP(Aspect-Oriented%20Programming).md)
@@ -93,3 +98,4 @@
   - [DTO(Data Transfer Object)](🌳Core%20Concepts\DTO(Data%20Transfer%20Object).md)
   - [VO(Value Object)](🌳Core%20Concepts\VO(Value%20Object).md)
   - [DDD(Domain-Driven Design)](🌳Core%20Concepts\DDD(Domain-Driven%20Design).md)
+  - [Hibernate Validator](🌳Core%20Concepts\Hibernate%20Validator.md)
