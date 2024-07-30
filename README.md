@@ -99,3 +99,5 @@
   - [VO(Value Object)](🌳Core%20Concepts\VO(Value%20Object).md)
   - [DDD(Domain-Driven Design)](🌳Core%20Concepts\DDD(Domain-Driven%20Design).md)
   - [Hibernate Validator](🌳Core%20Concepts\Hibernate%20Validator.md)
+  - [Transactional Management](SpringBoot-knowledge\🌳Core%20Concepts\Transactional%20Management.md)
+  
